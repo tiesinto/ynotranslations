@@ -20,138 +20,138 @@ msgstr "Sabitsuki"
 #. ID 2
 msgctxt "actors.name"
 msgid "錆"
-msgstr "Rust"
+msgstr "Rost"
 
 #. ID 1
 msgctxt "skills.name"
 msgid "おきる"
-msgstr "Wake Up"
+msgstr "Aufstehn"
 
 #. ID 1
 msgctxt "skills.description"
 msgid "じぶんのへやにもどる。"
-msgstr "Return to your room."
+msgstr "Zurück zum Zimmer."
 
 #. ID 2
 msgctxt "skills.name"
 msgid "かそくそうち"
-msgstr "Accelerator"
+msgstr "Akzelerator"
 
 #. ID 2
 msgctxt "skills.description"
 msgid "デバッグせんよう"
-msgstr "Debugging purposes."
+msgstr "Zum Debuggen."
 
 #. ID 1
 #. ID 2
 #. ID 36
 msgctxt "items.name"
 msgid "ヘッドフォン"
-msgstr "Headphones"
+msgstr "Kopfhörer"
 
 #. ID 1
 #. ID 2
 msgctxt "items.description"
 msgid "｢ヘッドフォン｣をかぶる。"
-msgstr "Put on Headphones."
+msgstr "Setze Kopfhörer auf."
 
 #. ID 3
 #. ID 4
 #. ID 37
 msgctxt "items.name"
 msgid "てつパイプ"
-msgstr "Iron Pipe"
+msgstr "Eisenrohr"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
 msgid "｢てつパイプ｣をもつ。"
-msgstr "Wield an Iron Pipe."
+msgstr "Rüste ein Eisenrohr aus."
 
 #. ID 5
 #. ID 6
 #. ID 38
 msgctxt "items.name"
 msgid "ゆうれい"
-msgstr "Ghost"
+msgstr "Geist"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
 msgid "｢ゆうれい｣になる。"
-msgstr "Become a Ghost."
+msgstr "Erscheine als ein Geist."
 
 #. ID 7
 #. ID 8
 #. ID 39
 msgctxt "items.name"
 msgid "モノアイ"
-msgstr "Mono Eye"
+msgstr "Zyklop"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
 msgid "｢モノアイ｣になる。"
-msgstr "Become a Mono Eye."
+msgstr "Ein Zyklop werden."
 
 #. ID 9
 #. ID 10
 #. ID 40
 msgctxt "items.name"
 msgid "せんすいふく"
-msgstr "Diving Helmet"
+msgstr "Taucherhelm"
 
 #. ID 9
 #. ID 10
 msgctxt "items.description"
 msgid "｢せんすいふく｣をかぶる。"
-msgstr "Equip a Diving Helmet."
+msgstr "Rüste einen Taucherhelm aus."
 
 #. ID 11
 #. ID 12
 #. ID 41
 msgctxt "items.name"
 msgid "ねこ"
-msgstr "Cat"
+msgstr "Katze"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
 msgid "｢ねこ｣になる。"
-msgstr "Become a Cat."
+msgstr "Eine Katze werden."
 
 #. ID 13
 #. ID 14
 #. ID 42
 msgctxt "items.name"
 msgid "ほうき"
-msgstr "Broom"
+msgstr "Hexenbesen"
 
 #. ID 13
 #. ID 14
 msgctxt "items.description"
 msgid "｢ほうき｣にのる。"
-msgstr "Ride a Broom."
+msgstr "Steige auf einen Hexenbesen."
 
 #. ID 15
 #. ID 16
 #. ID 43
 msgctxt "items.name"
 msgid "じょうろ"
-msgstr "Watering Can"
+msgstr "Gießkanne"
 
 #. ID 15
 #. ID 16
 msgctxt "items.description"
 msgid "｢じょうろ｣をもつ。"
-msgstr "Hold a Watering Can."
+msgstr "Benutze eine Gießkanne."
 
 #. ID 17
 #. ID 18
 #. ID 44
 msgctxt "items.name"
 msgid "ホイッスル"
-msgstr "Whistle"
+msgstr "Trillerpfeife"
 
 #. ID 17
 #. ID 18
