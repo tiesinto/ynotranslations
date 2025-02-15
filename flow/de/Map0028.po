@@ -18,4 +18,4 @@ msgstr ""
 #. ID 4, Page 3, Line 5, Pos (11,6)
 #. ID 4, Page 4, Line 5, Pos (11,6)
 msgid "　　　　　　　　  .せんすいふく."
-msgstr "　　　　　　　　  .Diving Helmet."
+msgstr "　　　　　　　　  .Taucherhelm."
