@@ -14,4 +14,4 @@ msgstr ""
 
 #. ID 15, Page 2, Line 4, Pos (12,7)
 msgid "　　　　　  　 .メニュータイプrust."
-msgstr "　　　　　　　  　 .Rust Menu."
+msgstr "　　　　　　　  　 .Rost-Menü."
