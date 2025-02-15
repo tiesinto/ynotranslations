@@ -253,15 +253,15 @@ msgstr "Gießkanne"
 
 #. ID 9, Page 1, Line 6, Pos (15,3)
 msgid "じょうろ破棄"
-msgstr "Watering Can Discarded"
+msgstr "Gießkanne wurde geschrottet"
 
 #. ID 9, Page 1, Line 26, Pos (15,3)
 msgid "じょうろ取得"
-msgstr "Watering Can Obtained"
+msgstr "Du hast Gießkanne"
 
 #. ID 10, Page 1, Line 1, Pos (8,1)
 msgid "はやくはしるよ！"
-msgstr "Set speed?"
+msgstr "Geschwindigkeit ändern?"
 
 #. ID 10, Page 1, Line 2, Pos (8,1)
 #. Choice (4 options)
@@ -272,8 +272,8 @@ msgid ""
 "神速"
 msgstr ""
 "Normal\n"
-"Fast\n"
-"Very Fast\n"
+"Schnell\n"
+"Sehr schnell\n"
 "Godspeed"
 
 #. ID 11, Page 1, Line 1, Pos (9,1)
@@ -289,56 +289,56 @@ msgid ""
 "する\n"
 "いい"
 msgstr ""
-"Yes\n"
-"No"
+"Ja\n"
+"Nein"
 
 #. ID 12, Page 1, Line 1, Pos (13,3)
 msgid "てつパイプ"
-msgstr "Iron Pipe"
+msgstr "Eisenrohr"
 
 #. ID 12, Page 1, Line 6, Pos (13,3)
 msgid "てつパイプ破棄"
-msgstr "Iron Pipe Discarded"
+msgstr "Eisenrohr wurde geschrottet"
 
 #. ID 12, Page 1, Line 26, Pos (13,3)
 msgid "てつパイプ取得"
-msgstr "Iron Pipe Obtained"
+msgstr "Du hast Eisenrohr"
 
 #. ID 15, Page 1, Line 1, Pos (17,3)
 msgid "モノアイ　かわいい"
-msgstr "Mono Eye [Cute!]"
+msgstr "Zyklop [süß!]"
 
 #. ID 15, Page 1, Line 6, Pos (17,3)
 msgid "モノアイ破棄"
-msgstr "Mono Eye Discarded"
+msgstr "Zyklop wurde geschrottet"
 
 #. ID 15, Page 1, Line 26, Pos (17,3)
 msgid "モノアイ取得"
-msgstr "Mono Eye Obtained"
+msgstr "Du hast Zyklop"
 
 #. ID 16, Page 1, Line 1, Pos (11,5)
 msgid "せんすいふく　ふく…？"
-msgstr "Diving Helmet"
+msgstr "Taucherhelm"
 
 #. ID 16, Page 1, Line 6, Pos (11,5)
 msgid "せんすいふく破棄"
-msgstr "Diving Helmet Discarded"
+msgstr "Taucherhelm wurde geschrottet"
 
 #. ID 16, Page 1, Line 26, Pos (11,5)
 msgid "せんすいふく取得"
-msgstr "Diving Helmet Obtained"
+msgstr "Du hast Taucherhelm"
 
 #. ID 18, Page 1, Line 1, Pos (13,5)
 msgid "ねこ　小さいところに入れるようになりました。"
-msgstr "Cat [Now you can enter small areas.]"
+msgstr "Katze [Now you can enter small areas.]"
 
 #. ID 18, Page 1, Line 6, Pos (13,5)
 msgid "ねこ破棄"
-msgstr "Cat Discarded"
+msgstr "Katze geschrottet"
 
 #. ID 18, Page 1, Line 26, Pos (13,5)
 msgid "ねこ取得"
-msgstr "Cat Obtained"
+msgstr "Du hast Katze"
 
 #. ID 19, Page 1, Line 1, Pos (15,5)
 msgid ""
@@ -346,9 +346,9 @@ msgid ""
 "ほうきイベントをどうしても作りたかったから\n"
 "作っちゃった。"
 msgstr ""
-"Broom [It's like Yume Nikki's Witch + Bicycle.\n"
-"I really wanted to make a broom effect, so...\n"
-"I made one!]"
+"Broom [Es ist wie die Hexe und das Fahrrad von Yume Nikki.\n"
+"Ich wollte echt einen Beseneffekt also...\n"
+"Ich machte einen!]"
 
 #. ID 19, Page 1, Line 8, Pos (15,5)
 msgid "ほうき破棄"
